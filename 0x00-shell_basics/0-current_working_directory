@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 #!/bin/bash
 echo "/root/alx-system_engineering-devops/0x00-shell_basics/"
-=======
 
-#!/bin/bash
-echo "/root/alx-system_engineering-devops/0x00-shell_basics/"
->>>>>>> b79e10bdd621e3bcfb2958432ba3ecad059ff6b6
