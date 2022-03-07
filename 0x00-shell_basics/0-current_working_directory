@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "/tmp/correction/992551366414461762266197563561477_5/205/25190/0x00-shell_basics"
- 
+echo "Script executed from: ${PWD}"
